@@ -66,7 +66,7 @@ var upperCaseCharactersChars = [];
   }
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
-//
+
 function generatePassword(){
    var finalPassword = [] 
   var passwordLength = parseInt(
